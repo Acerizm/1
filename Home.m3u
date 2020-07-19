@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Premier sports
+http://fserver.yellowiptv.com:80/hls/2109f0d839/12949
+#EXTINF:-1,Discovery turbo
+http://fserver.yellowiptv.com:80/hls/2109f0d839/12894
