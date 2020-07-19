@@ -3,3 +3,5 @@
 http://fserver.yellowiptv.com:80/hls/2109f0d839/12949
 #EXTINF:-1,Discovery turbo
 http://fserver.yellowiptv.com:80/hls/2109f0d839/12894
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="Sports",Sky Sports Premier League HD
+#http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
